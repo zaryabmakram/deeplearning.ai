@@ -11,7 +11,16 @@
     - [Week # 04](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%20%23%204):
         - Building your Deep Neural Network - Step by Step
         - Deep Neural Network - Application
-
-​
-
-​
+        
+        
+- Course # 2: [Improving Deep Neural Networks](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks)
+    - [Week # 01](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks/Week%20%23%201):  
+        - Initialization
+        - Regularization
+        - Gradient Checking
+    - [Week # 02](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks/Week%20%23%202):
+        - Optimization Methods
+    - [Week # 03](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks/Week%20%23%203):
+        - Tensorflow Tutorial
+        
+ 
