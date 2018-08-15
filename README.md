@@ -22,5 +22,9 @@
         - Optimization Methods
     - [Week # 03](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks/Week%20%23%203):
         - Tensorflow Tutorial
-        
+
+- Course # 4: [Convolutional Neural Networks](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Convolutional%20Neural%20Networks)
+    - [Week # 01](https://github.com/zaryabmakram/deeplearning.ai/tree/master/Convolutional%20Neural%20Networks/Week%20%23%201):  
+        - Convolutional Model: step by step
+        - Convolutional Model: application
  
